@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Sintaxis de markdown
+
+#  Título de primer nivel
+##  Título de segundo nivel
+###  Título de tercer nivel
+####  Título de cuarto nivel
+#####  Título de quinto nivel
+######  Título de sexto nivel
+
+Esto es una línea.  
+Esto es otra línea justo a continuación.
+
+Esta es la tercera línea y tiene más espacio.
+
+
+Texto **en negro**
+
+Texto *en cursiva*
+
+Negrita y cursiva se hace como la combinación de ambas.
+
+> Citas asi
+Listas:
+
+1. Listas ordenadas
+    1. imprimación
+    1. Segundo
+    1. Tercero
+3. Listas desordenadas
+  - Imprimación
+  - Segundo
+  - Tercero
+  + Cuarto
+  * quinto
+
+
+Usar ` código`
+
+
+lineas horizontales
+***
+---
+_________________________
