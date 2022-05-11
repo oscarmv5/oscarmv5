@@ -1,4 +1,4 @@
-### Hi there 👋
+#Buenas a todos👋
 
 ##INFROMACION PERSONAL
 * *Nombre*: Oscar 
