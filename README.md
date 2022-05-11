@@ -11,6 +11,10 @@
 
 ## Instituto donde estudio actualmente
 
-  
-![San viator Valladolid](<center>https://static.wixstatic.com/media/8df825_d137c282dc52440db7c339ca280619c4~mv2.jpg/v1/fill/w_180,h_84,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8df825_d137c282dc52440db7c339ca280619c4~mv2.jpg</center>)
+<p align="center">
+San Viator Valladolid
+  <br><br>
+  <img src="https://static.wixstatic.com/media/8df825_d137c282dc52440db7c339ca280619c4~mv2.jpg/v1/fill/w_180,h_84,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8df825_d137c282dc52440db7c339ca280619c4~mv2.jpg">
+</p>
+
 
