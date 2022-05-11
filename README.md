@@ -1,6 +1,6 @@
-#Buenas a todos👋
+# Buenas a todos👋
 
-##INFROMACION PERSONAL
+## INFROMACION PERSONAL
 * *Nombre*: Oscar 
 * *Apellido*: Muñoz
 * *Vivo en*: Valladolid
